@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codeincraft
+- 👋 Hi, I am Nuel, ( @codeincraft)
 - 👀 I’m interested in software
-- 🌱 I’m currently learning flutter
+- 🌱 I’m A flutter Developer
 - 💞️ I’m looking to collaborate on mobile app
 - 📫 How to reach me +234 813 973 0151
 
